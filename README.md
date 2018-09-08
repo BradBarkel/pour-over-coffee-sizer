@@ -4,7 +4,7 @@ Calculate the correct ratio of ingredients to make the perfect cup of pour over 
 
 ## Live Demo
 
-Please visit the [Demo Page](https://bradbarkel.github.io/pour-over-coffee-sizer) to view.
+Please visit the [Demo Page](https://bradbarkel.github.io/pour-over-coffee-sizer/) to view.
 
 ## Built With
 * JavaScript 
